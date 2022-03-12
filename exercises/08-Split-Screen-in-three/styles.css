@@ -1,12 +1,21 @@
 body {
 	margin: 0;
 }
+
 #sectionA {
 	background: blue;
+	width: 33%;
 }
 #sectionB {
 	background: red;
+	width: 34%;
 }
 #sectionC {
 	background: green;
+	width: 33%;
+}
+
+div:nth-of-type(1) {
+	display: flex;
+	width: 100%;
 }
