@@ -35,4 +35,18 @@ header {
 nav,
 section {
 	padding: 100px 0;
+	float: left;
+	height: 80vh;
+	line-height: 45vh;
+}
+
+nav {
+	width: 30%;
+	height: 80vh;
+}
+
+section {
+	margin-left: 1%;
+	width: 69%;
+	height: 80vh;
 }
